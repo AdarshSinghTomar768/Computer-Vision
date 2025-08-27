@@ -1,0 +1,11 @@
+prefix=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv
+exec_prefix=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv
+libdir=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv/lib
+includedir=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

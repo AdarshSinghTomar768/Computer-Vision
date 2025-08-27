@@ -1,0 +1,11 @@
+prefix=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: XCB XTEST
+Description: XCB XTEST Extension
+Version: 1.17.0
+Requires.private: xcb
+Libs: -L${libdir} -lxcb-xtest
+Cflags: -I${includedir}

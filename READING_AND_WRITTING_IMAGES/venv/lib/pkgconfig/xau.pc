@@ -1,0 +1,11 @@
+prefix=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Xau
+Description: X authorization file management library
+Version: 1.0.12
+Requires: xproto
+Cflags: -I${includedir}
+Libs: -L${libdir} -lXau

@@ -1,0 +1,7 @@
+prefix=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv
+includedir=${prefix}/include
+ 
+Name: XCMiscProto
+Description: XCMisc extension headers
+Version: 1.2.2
+Cflags: -I${includedir}
