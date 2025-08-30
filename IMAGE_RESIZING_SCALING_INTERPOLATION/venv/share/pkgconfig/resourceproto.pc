@@ -1,0 +1,7 @@
+prefix=/home/adarsh/Desktop/CV(Open CV)/IMAGE_RESIZING_SCALING_INTERPOLATION/venv
+includedir=${prefix}/include
+ 
+Name: ResourceProto
+Description: Resource extension headers
+Version: 1.2.0
+Cflags: -I${includedir}

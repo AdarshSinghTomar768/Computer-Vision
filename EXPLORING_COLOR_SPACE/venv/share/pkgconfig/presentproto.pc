@@ -1,0 +1,7 @@
+prefix=/home/adarsh/Desktop/CV(Open CV)/EXPLORING_COLOR_SPACE/venv
+includedir=${prefix}/include
+ 
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}

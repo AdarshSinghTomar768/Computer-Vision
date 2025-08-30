@@ -1,0 +1,7 @@
+prefix=/home/adarsh/Desktop/CV(Open CV)/IMAGE_RESIZING_SCALING_INTERPOLATION/venv
+includedir=${prefix}/include
+
+Name: RenderProto
+Description: Render extension headers
+Version: 0.11.1
+Cflags: -I${includedir}
