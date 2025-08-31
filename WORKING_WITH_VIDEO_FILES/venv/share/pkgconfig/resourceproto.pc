@@ -1,7 +1,0 @@
-prefix=/home/adarsh/Desktop/CV(Open CV)/working_with_video_files/venv
-includedir=${prefix}/include
- 
-Name: ResourceProto
-Description: Resource extension headers
-Version: 1.2.0
-Cflags: -I${includedir}

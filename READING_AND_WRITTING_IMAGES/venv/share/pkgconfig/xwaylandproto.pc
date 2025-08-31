@@ -1,7 +1,0 @@
-prefix=/home/adarsh/Desktop/CV(Open CV)/READING_AND_WRITTING_IMAGES/venv
-includedir=${prefix}/include
-
-Name: XwaylandProto
-Description: Xwayland extension headers
-Version: 1.0
-Cflags: -I${includedir}
